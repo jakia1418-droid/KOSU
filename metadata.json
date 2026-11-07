@@ -1,0 +1,6 @@
+{
+  "name": "KOSU — Modern 3D Beverage Brand",
+  "description": "No big plans. Just good drinks. Explore KOSU's vibrant fruit sodas in interactive 3D with Calamansi, Pink Guava, Pandan, and Tamarind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
